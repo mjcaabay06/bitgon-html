@@ -327,7 +327,7 @@ img{
     right: 0;
 }
 
-.animate{
+.animated{
 	-webkit-transition: all 0.2s ease;
 	-moz-transition: all 0.2s ease;
 	-o-transition: all 0.2s ease;
@@ -1722,3 +1722,24 @@ margin-right:5px}
 .title-category a{
 	color: #e6b645;
     font-weight: bold;}
+	
+	
+.under-construction-page{
+	text-align:center;
+	margin-top:30px	
+}
+
+.under-construction-page img{
+    width: 45%;
+}
+.construction-txt{
+	display: block;
+    font-size: 30px;	
+}
+.thank-you-page{
+	text-align:center;
+	margin-top:30px
+}
+.thank-you-page img{
+	width:70%
+}
